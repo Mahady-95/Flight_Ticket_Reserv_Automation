@@ -1,0 +1,18 @@
+Selenium with python automation
+1. open pycharm
+2. create new project and go to settings for package installation
+	a. selenium
+	b. pytest
+	c. pytest-html
+	d. pytest-xdist
+	e. openpyxl
+	f. pynput
+3. folder structure
+	a. pageObjects (package)
+	b. testcases (package)
+	c. utilities (folder)
+	d. testdata
+	e. configuration
+	f. log
+	g. screenshots
+	h. reports
