@@ -38,3 +38,32 @@
 10/11/2023 02:10:17 AM: INFO: Radio button selected
 10/11/2023 02:10:27 AM: INFO: Radio button selected
 10/11/2023 02:10:20 AM: INFO: Radio button selected
+10/11/2023 05:10:08 PM: INFO: **** Starting ticket reservation page testing (TestTicketBookingPage002) ****
+10/11/2023 05:10:08 PM: INFO: ***** We are in ticket form page (verified) *****
+10/11/2023 05:10:08 PM: INFO: Choosing the correct option
+10/11/2023 05:10:11 PM: INFO: **** Providing passenger details ****
+10/11/2023 05:10:17 PM: INFO: **** Providing billing details ****
+10/11/2023 05:10:18 PM: INFO: **** Selecting payment method ****
+10/11/2023 05:10:31 PM: INFO: **** This is the end of Ticket reservation page testing (TestTicketBookingPage002) **** 
+10/11/2023 05:10:16 PM: INFO: **** Opening URL ****
+10/11/2023 05:10:19 PM: INFO: **** Starting ticket reservation home page testing (TestHomePage001)
+10/11/2023 05:10:20 PM: INFO: **** We are in ticket reservation homepage ****
+10/11/2023 05:10:38 PM: INFO: **** This is the ending of ticket reservation homepage testing (TestHomePage001) 
+10/11/2023 05:10:56 PM: INFO: **** Starting testing (TestTicketBookingPage002) ****
+10/11/2023 05:10:56 PM: INFO: ***** We are in ticket reservation page (verified) *****
+10/11/2023 05:10:56 PM: INFO: **** Choosing the correct option ****
+10/11/2023 05:10:59 PM: INFO: **** Providing passenger details ****
+10/11/2023 05:10:05 PM: INFO: **** Providing billing details ****
+10/11/2023 05:10:06 PM: INFO: **** Selecting payment method ****
+10/11/2023 05:10:20 PM: INFO: **** This is the end of testing (TestTicketBookingPage002) **** 
+10/12/2023 12:10:26 AM: INFO: **** Opening URL ****
+10/12/2023 12:10:30 AM: INFO: **** Starting ticket reservation home page testing (TestHomePage001)
+10/12/2023 12:10:30 AM: INFO: **** We are in ticket reservation homepage ****
+10/12/2023 12:10:48 AM: INFO: **** This is the ending of ticket reservation homepage testing (TestHomePage001) 
+10/12/2023 12:10:06 AM: INFO: **** Starting testing (TestTicketBookingPage002) ****
+10/12/2023 12:10:06 AM: INFO: ***** We are in ticket reservation page (verified) *****
+10/12/2023 12:10:06 AM: INFO: **** Choosing the correct option ****
+10/12/2023 12:10:09 AM: INFO: **** Providing passenger details ****
+10/12/2023 12:10:15 AM: INFO: **** Providing billing details ****
+10/12/2023 12:10:17 AM: INFO: **** Selecting payment method ****
+10/12/2023 12:10:31 AM: INFO: **** This is the end of testing (TestTicketBookingPage002) **** 

@@ -83,7 +83,7 @@ class TicketBookingPage:
         if not rd_male.is_selected():
             rd_male.click()
         if rd_male.is_selected():
-            print("Radio button has is selected")
+            print("Radio button has selected")
     def setfromcity(self):
         from_city=self.driver.find_element(By.XPATH,self.txt_fromcity_xpath)
         from_city.send_keys("Savar")

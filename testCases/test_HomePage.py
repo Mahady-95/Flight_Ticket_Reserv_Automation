@@ -19,18 +19,21 @@ class TestHomePage001:
     def test_home_page_title(self, setUp):
         self.driver = setUp
         self.driver.maximize_window()
+        self.logger.info("**** Opening URL ****")
         self.driver.get(self.baseUrl)
+        self.logger.info("**** Starting ticket reservation home page testing (TestHomePage001)")
         self.hp = HomePage(self.driver)
 
         act_title = self.driver.title
         exp_title = "Dummy Ticket - Original tickets but Dummy"
         if act_title == exp_title:
             assert True
-            self.logger.info("********* HomePage ********")
+            self.logger.info("**** We are in ticket reservation homepage ****")
             time.sleep(5)
         else:
             assert False
         self.hp.clickbuyticket()
         time.sleep(5)
         self.driver.close()
+        self.logger.info("**** This is the ending of ticket reservation homepage testing (TestHomePage001) ")
 #pytest -s -v --html=reports\report.html testCases/test_HomePage.py --browser chrome
